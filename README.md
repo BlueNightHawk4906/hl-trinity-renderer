@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trinity Renderer
 Trinity Renderer by Andrew Lucas. This version can be compiled using vs2019 and some crashes have been fixed.
 
@@ -60,6 +59,3 @@ There are basic rules of conduct that should be followed at all times by everyon
 
 Remember: Just because the issue you reported was reported here does not mean that it is an issue with Half-Life.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
 =======
-# hl-trinity-renderer
-Trinity Renderer by Andrew Lucas. This version can be compiled using vs2019 and the changelevel crashing has been fixed.
->>>>>>> 56f02602fe42a657c20a9f8b618d78dcc12c7bbb
